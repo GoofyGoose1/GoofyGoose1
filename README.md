@@ -2,17 +2,14 @@
   Daniel Edri — GitHub Profile README
   Repository: GoofyGoose1/GoofyGoose1
 
-  Required local assets:
-  assets/graffiti-profile-banner.png
-  assets/footer.svg
-
-  Contribution snake workflow must publish to the output branch.
+  Required asset:
+  assets/graffiti-header.png
 -->
 
 <div align="center">
 
 <img
-  src="./assets/graffiti-profile-banner.png"
+  src="./assets/graffiti-header.png"
   width="100%"
   alt="Daniel Edri — Junior Full-Stack Developer"
 />
@@ -54,14 +51,6 @@ const daniel = {
     "Python"
   ],
 
-  interests: [
-    "UI/UX",
-    "Responsive Design",
-    "APIs",
-    "Databases",
-    "Design Systems"
-  ],
-
   mission:
     "Build useful software that works well and feels great to use"
 };
@@ -72,7 +61,7 @@ const daniel = {
 
 I enjoy the point where **design meets code**.
 
-I build modern interfaces and the backend systems that support them. I care about clear structure, smooth user experiences and products that people genuinely enjoy using.
+I build modern interfaces and the backend systems that support them. I care about clean structure, smooth user experiences and products people genuinely enjoy using.
 
 - 💗 Building responsive full-stack applications
 - ✦ Improving TypeScript, Next.js and architecture skills
@@ -146,7 +135,9 @@ EXPLORING   Motion, interaction design and modern visual systems
 
 ## `> FEATURED_PROJECTS`
 
-> Replace the four placeholder repository names below with Daniel's real repository names.
+<!--
+Replace PROJECT_ONE through PROJECT_FOUR with exact repository names.
+-->
 
 <div align="center">
 
@@ -213,15 +204,15 @@ EXPLORING   Motion, interaction design and modern visual systems
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg?v=3"
+    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg?v=4"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg?v=3"
+    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg?v=4"
   />
   <img
     width="100%"
-    src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg?v=3"
+    src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg?v=4"
     alt="Daniel's contribution snake animation"
   />
 </picture>
@@ -232,15 +223,6 @@ EXPLORING   Motion, interaction design and modern visual systems
 
 ## `> PRINCIPLES.TXT`
 
-<table>
-<tr>
-<td width="18%" align="center">
-
-# 👑
-
-</td>
-<td width="82%">
-
 ```text
 01. Solve the real problem.
 02. Make the solution work.
@@ -249,10 +231,6 @@ EXPLORING   Motion, interaction design and modern visual systems
 05. Make the system maintainable.
 06. Then make it beautiful.
 ```
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -264,20 +242,10 @@ EXPLORING   Motion, interaction design and modern visual systems
 [![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff4f91)](mailto:edridaniel2002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=ff4f91)](https://github.com/GoofyGoose1)
 
-</div>
+<br><br>
 
-<br>
+### THANKS FOR STOPPING BY!
 
-<div align="center">
-
-## THANKS FOR STOPPING BY!
-
-**Let's build something awesome together.**
-
-`CODE` · `CREATE` · `SHIP IT`
-
-<br>
-
-<img src="./assets/footer.svg" width="100%" alt="" />
+**Code · Create · Ship it**
 
 </div>
