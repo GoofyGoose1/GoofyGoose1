@@ -225,42 +225,6 @@ EXPLORING   Motion, interaction design and modern visual systems
 
 <br>
 
-## `> github_stats --live`
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GoofyGoose1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=ec4899&include_all_commits=true&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=GoofyGoose1&show_icons=true&hide_border=true&title_color=0366d6&icon_color=6f42c1&text_color=24292f&include_all_commits=true&rank_icon=github"
-    alt="Daniel's GitHub statistics"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GoofyGoose1&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoofyGoose1&layout=compact&hide_border=true&title_color=0366d6&text_color=24292f&langs_count=8"
-    alt="Daniel's most-used languages"
-  />
-</picture>
-
-</div>
-
-<br>
-
-> Public GitHub statistics services occasionally reach their rate limits. Missing cards normally return after their cache refreshes.
-
-<br>
-
 ## `> contributions --animate`
 
 <div align="center">
