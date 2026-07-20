@@ -1,11 +1,3 @@
-# Daniel Edri — GitHub Profile README
-
-> **Note:** This file is based on your current README, with the animations integrated in the recommended places.
-
-Replace your existing `README.md` with the content below.
-
----
-
 <!--
   Daniel Edri — GitHub Profile README
   Repository: GoofyGoose1/GoofyGoose1
