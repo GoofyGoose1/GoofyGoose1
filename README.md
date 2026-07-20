@@ -151,34 +151,34 @@ EXPLORING   Motion, interaction design and modern visual systems
   repo=my-project
 -->
 
-<a href="https://github.com/GoofyGoose1/PROJECT_ONE">
+<a href="https://github.com/GoofyGoose1/DressLily">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_ONE&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=DressLily&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
     alt="Featured project one"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/PROJECT_TWO">
+<a href="https://github.com/GoofyGoose1/StepUp">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_TWO&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=StepUp&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
     alt="Featured project two"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/PROJECT_THREE">
+<a href="https://github.com/GoofyGoose1/Portfolio">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_THREE&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=Portfolio&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
     alt="Featured project three"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/PROJECT_FOUR">
+<a href="https://github.com/GoofyGoose1/RagPro">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_FOUR&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=RagPro&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
     alt="Featured project four"
   />
 </a>
