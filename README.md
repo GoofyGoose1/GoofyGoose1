@@ -17,8 +17,6 @@
   alt="Daniel Edri — Junior Full-Stack Developer"
 />
 
-<br>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=GoofyGoose1&label=PROFILE+VIEWS&color=ff4f91&style=for-the-badge)](https://github.com/GoofyGoose1)
 [![Followers](https://img.shields.io/github/followers/GoofyGoose1?label=FOLLOWERS&style=for-the-badge&color=111111&labelColor=ff4f91)](https://github.com/GoofyGoose1?tab=followers)
 [![GitHub](https://img.shields.io/badge/GITHUB-GOOFYGOOSE1-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoofyGoose1)
