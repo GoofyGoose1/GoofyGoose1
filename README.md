@@ -276,6 +276,30 @@ daniel@github:~$ current-status
 
 </div>
 
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    width="100%"
+    alt="Snake animation eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
 ---
 
 ## `daniel@github:~$ contact`
