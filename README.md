@@ -201,52 +201,46 @@ alt="Coding Wave"
   width="100%"
   alt="Daniel Edri contribution graph"
 />
-
 </div>
-
 <br>
+
+## `> CONTRIBUTION_STREAK`
 
 <div align="center">
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=GoofyGoose1&show_icons=true&hide_border=true&bg_color=fffafa&title_color=111111&text_color=444444&icon_color=ff4f91"
-  alt="Daniel Edri GitHub statistics"
-/>
-
-<img
-  width="48%"
   src="https://streak-stats.demolab.com?user=GoofyGoose1&hide_border=true&background=FFFAFA&ring=FF4F91&fire=FF4F91&currStreakLabel=111111&currStreakNum=111111&sideNums=111111&sideLabels=111111&dates=555555"
+  width="70%"
   alt="Daniel Edri GitHub streak"
 />
-
 </div>
-
 <br>
+
+## `> CONTRIBUTION_SNAKE`
 
 <div align="center">
 
 <picture>
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg"
-/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
-/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
+  />
 
-<img
-width="100%"
-src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
-alt="Contribution Snake"
-/>
-<picture>
-
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
+    alt="Daniel Edri contribution snake"
+  />
+</picture>
 </div>
-
 <br>
+
+## `> PRINCIPLES.TXT`
 
 ```text
 01. Solve the real problem.
