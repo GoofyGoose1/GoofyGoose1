@@ -1,43 +1,37 @@
 <!--
   Daniel Edri — GitHub Profile README
-  Profile repository: GoofyGoose1/GoofyGoose1
+  Repository: GoofyGoose1/GoofyGoose1
 
-  Required assets:
-  - assets/banner.svg
-  - assets/terminal.svg
-  - assets/footer.svg
+  Required local assets:
+  assets/graffiti-profile-banner.png
+  assets/footer.svg
 
-  Replace PROJECT_ONE, PROJECT_TWO, PROJECT_THREE and PROJECT_FOUR
-  with the names of the repositories you want to feature.
+  Contribution snake workflow must publish to the output branch.
 -->
 
 <div align="center">
-  <img
-    src="./assets/banner.svg"
-    width="100%"
-    alt="Daniel Edri — Junior Full-Stack Developer"
-  />
-</div>
 
-<div align="center">
+<img
+  src="./assets/graffiti-profile-banner.png"
+  width="100%"
+  alt="Daniel Edri — Junior Full-Stack Developer"
+/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=GoofyGoose1&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge)](https://github.com/GoofyGoose1)
-[![Followers](https://img.shields.io/github/followers/GoofyGoose1?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=111827)](https://github.com/GoofyGoose1?tab=followers)
-[![Total Stars](https://img.shields.io/github/stars/GoofyGoose1?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=ec4899&labelColor=111827)](https://github.com/GoofyGoose1?tab=repositories)
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=GoofyGoose1&label=PROFILE+VIEWS&color=ff4f91&style=for-the-badge)](https://github.com/GoofyGoose1)
+[![Followers](https://img.shields.io/github/followers/GoofyGoose1?label=FOLLOWERS&style=for-the-badge&color=111111&labelColor=ff4f91)](https://github.com/GoofyGoose1?tab=followers)
+[![GitHub](https://img.shields.io/badge/GITHUB-GOOFYGOOSE1-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoofyGoose1)
 
 </div>
 
 <br>
 
-<div align="center">
-  <img
-    src="./assets/terminal.svg"
-    width="880"
-    alt="Developer terminal introduction"
-  />
-</div>
+## `> WHOAMI`
 
-## `> whoami`
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```javascript
 const daniel = {
@@ -61,70 +55,85 @@ const daniel = {
   ],
 
   interests: [
-    "Responsive interfaces",
-    "UI systems",
-    "Full-stack applications",
-    "Clean software architecture"
+    "UI/UX",
+    "Responsive Design",
+    "APIs",
+    "Databases",
+    "Design Systems"
   ],
 
-  mission: "Build useful software that works well and feels great to use"
+  mission:
+    "Build useful software that works well and feels great to use"
 };
 ```
 
-I'm a junior full-stack developer who enjoys turning ideas into polished, practical products.
+</td>
+<td width="45%" valign="top">
 
-My strongest interest is the point where **design meets development**: creating responsive interfaces, reusable components, intuitive user flows and the backend systems that support them.
+I enjoy the point where **design meets code**.
 
-I care about more than making something work. I want the final product to be clear, maintainable, responsive and enjoyable to use.
+I build modern interfaces and the backend systems that support them. I care about clear structure, smooth user experiences and products that people genuinely enjoy using.
 
-- 🔭 Building responsive frontend and full-stack applications
-- 🌱 Developing deeper TypeScript, Next.js and architecture skills
-- 🎨 Exploring UI systems, animations and polished user experiences
-- ⚙️ Expanding my backend experience with APIs and databases
-- 🤝 Open to practical projects and development collaborations
+- 💗 Building responsive full-stack applications
+- ✦ Improving TypeScript, Next.js and architecture skills
+- ✦ Exploring UI systems, animations and micro-interactions
+- ✦ Expanding backend experience with APIs and databases
+- ✦ Open to collaborations and practical projects
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## `> stack --list`
+## `> TECH_STACK`
 
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,cs,dotnet,mysql,git,github,vscode,figma&perline=9"
-    alt="Daniel's technology stack"
-  />
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,cs,dotnet,mysql,git,github,vscode,figma&perline=9"
+  alt="Daniel's technology stack"
+/>
+
 </div>
 
 <br>
 
 <table align="center">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <strong>Frontend</strong>
-      <br><br>
-      React · Next.js<br>
-      JavaScript · TypeScript<br>
-      HTML · CSS · Tailwind
-    </td>
-    <td align="center" width="33%" valign="top">
-      <strong>Backend</strong>
-      <br><br>
-      Node.js · Express<br>
-      C# · .NET · Python<br>
-      REST APIs · SQL
-    </td>
-    <td align="center" width="33%" valign="top">
-      <strong>Development & Design</strong>
-      <br><br>
-      Git · GitHub · VS Code<br>
-      Figma · GitHub Actions<br>
-      Responsive UI · UX
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%" valign="top">
+
+### FRONTEND
+
+React · Next.js  
+JavaScript · TypeScript  
+HTML · CSS · Tailwind
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### BACKEND
+
+Node.js · Express  
+C# · .NET · Python  
+REST APIs · SQL
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### TOOLS + DESIGN
+
+Git · GitHub · VS Code  
+Figma · GitHub Actions  
+Responsive UI · UX
+
+</td>
+</tr>
 </table>
 
 <br>
 
-## `> status --current`
+## `> CURRENT_STATUS`
 
 ```text
 BUILDING    Responsive web applications and reusable UI components
@@ -135,50 +144,40 @@ EXPLORING   Motion, interaction design and modern visual systems
 
 <br>
 
-## `> featured_projects --open`
+## `> FEATURED_PROJECTS`
+
+> Replace the four placeholder repository names below with Daniel's real repository names.
 
 <div align="center">
 
-<!--
-  Replace every PROJECT_NAME with the exact name of a real GitHub repository.
-
-  Example:
-
-  Repository URL:
-  https://github.com/GoofyGoose1/my-project
-
-  Use:
-  repo=my-project
--->
-
-<a href="https://github.com/GoofyGoose1/DressLily">
+<a href="https://github.com/GoofyGoose1/PROJECT_ONE">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=DressLily&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_ONE&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="Featured project one"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/StepUp">
+<a href="https://github.com/GoofyGoose1/PROJECT_TWO">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=StepUp&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_TWO&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="Featured project two"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/Portfolio">
+<a href="https://github.com/GoofyGoose1/PROJECT_THREE">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=Portfolio&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_THREE&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="Featured project three"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/RagPro">
+<a href="https://github.com/GoofyGoose1/PROJECT_FOUR">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=RagPro&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ec4899&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_FOUR&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="Featured project four"
   />
 </a>
@@ -187,85 +186,60 @@ EXPLORING   Motion, interaction design and modern visual systems
 
 <br>
 
-## `> development_focus.json`
-
-```json
-{
-  "frontend": {
-    "goal": "Create reusable components and smooth responsive layouts",
-    "priorities": [
-      "Accessibility",
-      "Performance",
-      "Consistency",
-      "User experience"
-    ]
-  },
-
-  "backend": {
-    "goal": "Build reliable services with clear data flow",
-    "priorities": [
-      "REST APIs",
-      "Database fundamentals",
-      "Validation",
-      "Maintainable architecture"
-    ]
-  },
-
-  "quality": {
-    "goal": "Write code that another developer can understand and extend",
-    "priorities": [
-      "Readable naming",
-      "Simple solutions",
-      "Clear structure",
-      "Thoughtful documentation"
-    ]
-  }
-}
-```
-
-<br>
-
-## `> contributions --animate`
+## `> CONTRIBUTIONS_GRAPH`
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=GoofyGoose1&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ec4899&area=true&hide_border=true"
-    />
-    <img
-      width="96%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=GoofyGoose1&color=24292f&line=0366d6&point=6f42c1&area=true&hide_border=true"
-      alt="Daniel's contribution activity graph"
-    />
-  </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=GoofyGoose1&bg_color=0d1117&color=f5f5f5&line=ff4f91&point=ffffff&area=true&hide_border=true"
+  />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GoofyGoose1&bg_color=fffafa&color=111111&line=ff4f91&point=111111&area=true&hide_border=true"
+    alt="Daniel's GitHub contribution graph"
+  />
+</picture>
+
 </div>
 
 <br>
 
-## `> run contribution_snake`
+## `> CONTRIBUTION_SNAKE`
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg?v=2"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg?v=2"
-    />
-    <img
-      width="100%"
-      src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg?v=2"
-      alt="Daniel's contribution snake animation"
-    />
-  </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg?v=3"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg?v=3"
+  />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg?v=3"
+    alt="Daniel's contribution snake animation"
+  />
+</picture>
+
 </div>
 
 <br>
 
-## `> principles.txt`
+## `> PRINCIPLES.TXT`
+
+<table>
+<tr>
+<td width="18%" align="center">
+
+# 👑
+
+</td>
+<td width="82%">
 
 ```text
 01. Solve the real problem.
@@ -276,15 +250,19 @@ EXPLORING   Motion, interaction design and modern visual systems
 06. Then make it beautiful.
 ```
 
+</td>
+</tr>
+</table>
+
 <br>
 
-## `> connect --with-daniel`
+## `> CONNECT --WITH-DANIEL`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieledri-/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edridaniel2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoofyGoose1)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff4f91)](https://www.linkedin.com/in/danieledri-/)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff4f91)](mailto:edridaniel2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=ff4f91)](https://github.com/GoofyGoose1)
 
 </div>
 
@@ -292,17 +270,14 @@ EXPLORING   Motion, interaction design and modern visual systems
 
 <div align="center">
 
-```text
-Great software is not only code that works.
+## THANKS FOR STOPPING BY!
 
-It is software people understand,
-trust and enjoy using.
-```
+**Let's build something awesome together.**
 
-<img
-  src="./assets/footer.svg"
-  width="100%"
-  alt=""
-/>
+`CODE` · `CREATE` · `SHIP IT`
+
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="" />
 
 </div>
