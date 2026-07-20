@@ -35,10 +35,6 @@
 
 ## `> WHOAMI`
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```javascript
 const daniel = {
   role: "Junior Full-Stack Developer",
@@ -60,21 +56,23 @@ const daniel = {
     "Python"
   ],
 
-  mission:
-    "Build useful software that works well and feels great to use"
+  mission: [
+    "Build useful software",
+    "that works well",
+    "and feels great to use"
+  ].join(" ")
 };
 ```
 
-</td>
-<td width="45%" valign="top">
+### `ABOUT_ME`
 
 I enjoy the point where **design meets code**.
 
-I build modern interfaces and the backend systems that support them. I care about clean structure, smooth user experiences and products people genuinely enjoy using.
+I build modern interfaces and the backend systems that support them. I care about clean structure, smooth user experiences, and products people genuinely enjoy using.
 
 - 💗 Building responsive full-stack applications
-- ✦ Improving TypeScript, Next.js and architecture skills
-- ✦ Exploring UI systems, animations and micro-interactions
+- ✦ Improving TypeScript, Next.js, and architecture skills
+- ✦ Exploring UI systems, animations, and micro-interactions
 - ✦ Expanding backend experience with APIs and databases
 - ✦ Open to collaborations and practical projects
 
