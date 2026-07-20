@@ -153,23 +153,96 @@ alt="Coding Wave"
 
 ## `> FEATURED_PROJECTS`
 
-> Keep your four existing GitHub Readme Stats cards here exactly as they are in your current README.
+<div align="center">
+
+<a href="https://github.com/GoofyGoose1/DressLily">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=DressLily&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    alt="DressLily"
+  />
+</a>
+
+<a href="https://github.com/GoofyGoose1/Portfolio">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=Portfolio&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    alt="Portfolio"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/GoofyGoose1/StepUp">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=StepUp&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    alt="StepUp"
+  />
+</a>
+
+<a href="https://github.com/GoofyGoose1/RagPro">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=RagPro&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    alt="RagPro"
+  />
+</a>
+
+</div>
 
 <br>
 
-## `> CONTRIBUTIONS_GRAPH`
+<div align="center">
 
-> Keep your current contribution graph section unchanged.
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GoofyGoose1&bg_color=fffafa&color=111111&line=ff4f91&point=ff4f91&area=true&hide_border=true"
+    width="100%"
+/>
+
+</div>
 
 <br>
 
-## `> CONTRIBUTION_SNAKE`
+<div align="center">
 
-> Keep your snake animation exactly as it is.
+<img
+    src="https://github-readme-stats.vercel.app/api?username=GoofyGoose1&show_icons=true&hide_border=true&bg_color=fffafa&title_color=111111&text_color=444444&icon_color=ff4f91&rank_icon=github"
+/>
+
+<img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GoofyGoose1&hide_border=true&background=fffafa&ring=ff4f91&fire=ff4f91&currStreakLabel=111111&currStreakNum=111111&sideNums=111111&sideLabels=111111&dates=555555"
+/>
+
+</div>
 
 <br>
 
-## `> PRINCIPLES.TXT`
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+width="100%"
+src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
+alt="Contribution Snake"
+/>
+
+</picture>
+
+</div>
+
+<br>
 
 ```text
 01. Solve the real problem.
