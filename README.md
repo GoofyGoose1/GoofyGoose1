@@ -161,7 +161,6 @@ alt="Coding Wave"
 ### DressLily
 
 </td>
-</tr>
 
 <td align="center" width="50%">
 <a href="https://github.com/GoofyGoose1/Portfolio">
@@ -182,7 +181,6 @@ alt="Coding Wave"
 ### StepUp
 
 </td>
-</tr>
 
 <td align="center">
 <a href="https://github.com/GoofyGoose1/RagPro">
