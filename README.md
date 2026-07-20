@@ -151,41 +151,47 @@ alt="Coding Wave"
 
 ## `> FEATURED_PROJECTS`
 
-<div align="center">
-
+<table>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/GoofyGoose1/DressLily">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=DressLily/main/Lily.PNG&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
-    alt="DressLily"
-  />
+<img src="https://raw.githubusercontent.com/GoofyGoose1/DressLily/main/Lily.PNG" width="100%">
 </a>
 
+### DressLily
+Modern E-Commerce Platform
+</td>
+
+<td align="center" width="50%">
 <a href="https://github.com/GoofyGoose1/Portfolio">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=Portfolio/main/daniel.PNG&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
-    alt="Portfolio"
-  />
+<img src="https://raw.githubusercontent.com/GoofyGoose1/Portfolio/main/daniel.PNG" width="100%">
 </a>
 
-<br><br>
+### Portfolio
+Personal Developer Website
+</td>
+</tr>
 
+<tr>
+<td align="center">
 <a href="https://github.com/GoofyGoose1/StepUp">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=StepUp/main/stepup-logo.png&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
-    alt="StepUp"
-  />
+<img src="https://raw.githubusercontent.com/GoofyGoose1/StepUp/main/stepup-logo.png" width="100%">
 </a>
 
+### StepUp
+Fitness & Progress Tracker
+</td>
+
+<td align="center">
 <a href="https://github.com/GoofyGoose1/RagPro">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=RagPro&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
-    alt="RagPro"
-  />
+<img src="https://raw.githubusercontent.com/GoofyGoose1/RagPro/main/ragpro.png" width="100%">
 </a>
+
+### RagPro
+RAG AI Assistant
+</td>
+</tr>
+</table>
 
 </div>
 
