@@ -174,7 +174,7 @@ alt="Coding Wave"
 <a href="https://github.com/GoofyGoose1/StepUp">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=StepUp&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=StepUp/main/stepup-logo.png&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="StepUp"
   />
 </a>
