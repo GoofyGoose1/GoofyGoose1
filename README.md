@@ -258,7 +258,7 @@ EXPLORING   Motion, interaction design and modern visual systems
     <img
       width="100%"
       src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
-      alt="Contribution snake animation"
+      alt="Daniel's contribution snake animation"
     />
   </picture>
 </div>
