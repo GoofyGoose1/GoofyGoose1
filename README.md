@@ -141,34 +141,34 @@ Replace PROJECT_ONE through PROJECT_FOUR with exact repository names.
 
 <div align="center">
 
-<a href="https://github.com/GoofyGoose1/PROJECT_ONE">
+<a href="https://github.com/GoofyGoose1/DressLily">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_ONE&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=DressLily&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="Featured project one"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/PROJECT_TWO">
+<a href="https://github.com/GoofyGoose1/Portfolio">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_TWO&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=Portfolio&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="Featured project two"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/PROJECT_THREE">
+<a href="https://github.com/GoofyGoose1/StepUp">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_THREE&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=StepUp&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="Featured project three"
   />
 </a>
 
-<a href="https://github.com/GoofyGoose1/PROJECT_FOUR">
+<a href="https://github.com/GoofyGoose1/RagPro">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=PROJECT_FOUR&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GoofyGoose1&repo=RagPro&hide_border=true&bg_color=fffafa&title_color=111111&icon_color=ff4f91&text_color=333333"
     alt="Featured project four"
   />
 </a>
