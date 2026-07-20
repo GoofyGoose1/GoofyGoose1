@@ -190,6 +190,7 @@ alt="Coding Wave"
 </div>
 
 <br>
+
 ## `> CONTRIBUTIONS`
 
 <div align="center">
@@ -262,7 +263,7 @@ alt="Coding Wave"
 <br><br>
 
 <img
-src="./assets/animated-footer.svg"
+src="./assets/animated-footer.svg?v=2"
 width="100%"
 alt="Animated Footer"
 />
