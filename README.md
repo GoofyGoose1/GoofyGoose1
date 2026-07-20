@@ -86,35 +86,32 @@ I build modern interfaces and the backend systems that support them. I care abou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,cs,dotnet,mysql,git,github,vscode,figma&perline=9"/>
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,cs,dotnet,mysql,git,github,vscode,figma&perline=6"
+  alt="Daniel Edri tech stack"
+/>
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### FRONTEND
+### `FRONTEND`
 
 React · Next.js  
 JavaScript · TypeScript  
-HTML · CSS · Tailwind
+HTML · CSS · Tailwind CSS  
 
-</td>
-<td align="center" width="33%">
+<br>
 
-### BACKEND
+### `BACKEND`
 
 Node.js · Express  
 C# · .NET · Python  
-REST APIs · SQL
+REST APIs · SQL  
 
-</td>
-<td align="center" width="33%">
+<br>
 
-### TOOLS
+### `TOOLS`
 
 Git · GitHub · VS Code  
 Figma · GitHub Actions  
