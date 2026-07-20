@@ -263,20 +263,6 @@ EXPLORING   Motion, interaction design and modern visual systems
   </picture>
 </div>
 
-<details>
-  <summary><strong>Snake animation not visible?</strong></summary>
-
-  <br>
-
-  1. Confirm that `.github/workflows/snake.yml` exists.
-  2. Open the repository's **Actions** tab.
-  3. Select **Generate contribution snake**.
-  4. Run the workflow manually.
-  5. Confirm that GitHub Actions has permission to write to the repository.
-  6. Refresh the profile after the `output` branch is created.
-
-</details>
-
 <br>
 
 ## `> principles.txt`
