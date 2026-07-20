@@ -159,7 +159,7 @@ alt="Coding Wave"
 </a>
 
 ### DressLily
-Modern E-Commerce Platform
+
 </td>
 
 <td align="center" width="50%">
@@ -168,7 +168,7 @@ Modern E-Commerce Platform
 </a>
 
 ### Portfolio
-Personal Developer Website
+
 </td>
 </tr>
 
@@ -179,16 +179,16 @@ Personal Developer Website
 </a>
 
 ### StepUp
-Fitness & Progress Tracker
+
 </td>
 
 <td align="center">
 <a href="https://github.com/GoofyGoose1/RagPro">
-<img src="https://raw.githubusercontent.com/GoofyGoose1/RagPro/main/ragpro.png" width="100%">
+<img src="https://raw.githubusercontent.com/GoofyGoose1/RagPro/main/AIimage.png" width="100%">
 </a>
 
 ### RagPro
-RAG AI Assistant
+
 </td>
 </tr>
 </table>
