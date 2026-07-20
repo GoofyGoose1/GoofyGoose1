@@ -207,7 +207,7 @@ alt="Coding Wave"
 <div align="center">
 
 <img
-    src="https://github-readme-stats.vercel.app/api?username=GoofyGoose1&show_icons=true&hide_border=true&bg_color=fffafa&title_color=111111&text_color=444444&icon_color=ff4f91&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=GoofyGoose1&show_icons=true&theme=transparent&hide_border=true"
 />
 
 <img
