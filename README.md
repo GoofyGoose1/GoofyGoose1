@@ -192,12 +192,14 @@ alt="Coding Wave"
 </div>
 
 <br>
+## `> CONTRIBUTIONS`
 
 <div align="center">
 
 <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GoofyGoose1&bg_color=fffafa&color=111111&line=ff4f91&point=ff4f91&area=true&hide_border=true"
-    width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=GoofyGoose1&bg_color=fffafa&color=111111&line=ff4f91&point=ff4f91&area=true&hide_border=true"
+  width="100%"
+  alt="Daniel Edri contribution graph"
 />
 
 </div>
@@ -207,11 +209,15 @@ alt="Coding Wave"
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=GoofyGoose1&show_icons=true&theme=transparent&hide_border=true"
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=GoofyGoose1&show_icons=true&hide_border=true&bg_color=fffafa&title_color=111111&text_color=444444&icon_color=ff4f91"
+  alt="Daniel Edri GitHub statistics"
 />
 
 <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GoofyGoose1&hide_border=true&background=fffafa&ring=ff4f91&fire=ff4f91&currStreakLabel=111111&currStreakNum=111111&sideNums=111111&sideLabels=111111&dates=555555"
+  width="48%"
+  src="https://streak-stats.demolab.com?user=GoofyGoose1&hide_border=true&background=FFFAFA&ring=FF4F91&fire=FF4F91&currStreakLabel=111111&currStreakNum=111111&sideNums=111111&sideLabels=111111&dates=555555"
+  alt="Daniel Edri GitHub streak"
 />
 
 </div>
@@ -221,7 +227,6 @@ alt="Coding Wave"
 <div align="center">
 
 <picture>
-
 <source
 media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg"
@@ -237,10 +242,9 @@ width="100%"
 src="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake.svg"
 alt="Contribution Snake"
 />
+<picture>
 
 </div>
-
-<picture>
 
 <br>
 
