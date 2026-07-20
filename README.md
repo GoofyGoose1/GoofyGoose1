@@ -159,7 +159,7 @@ alt="Coding Wave"
 </a>
 
 ### DressLily
-Modern E-Commerce Platform
+
 </td>
 
 <td align="center" width="50%">
@@ -168,9 +168,8 @@ Modern E-Commerce Platform
 </a>
 
 ### Portfolio
-Personal Developer Website
+
 </td>
-</tr>
 
 <tr>
 <td align="center">
@@ -179,7 +178,7 @@ Personal Developer Website
 </a>
 
 ### StepUp
-Fitness & Progress Tracker
+
 </td>
 
 <td align="center">
@@ -188,9 +187,8 @@ Fitness & Progress Tracker
 </a>
 
 ### RagPro
-RAG AI Assistant
+
 </td>
-</tr>
 </table>
 
 </div>
