@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Developer terminal">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00d9ff"/>
+      <stop offset=".5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .cursor{animation:blink 1s step-end infinite}
+    .line1{opacity:0;animation:show 8s infinite}
+    .line2{opacity:0;animation:show 8s 1.2s infinite}
+    .line3{opacity:0;animation:show 8s 2.4s infinite}
+    .line4{opacity:0;animation:show 8s 3.6s infinite}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes show{0%,5%{opacity:0}10%,90%{opacity:1}100%{opacity:0}}
+  </style>
+  <rect x="2" y="2" width="896" height="226" rx="16" fill="#070b14" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="2" y="2" width="896" height="38" rx="16" fill="#111827"/>
+  <rect x="2" y="25" width="896" height="15" fill="#111827"/>
+  <circle cx="24" cy="21" r="5" fill="#fb7185"/><circle cx="43" cy="21" r="5" fill="#fbbf24"/><circle cx="62" cy="21" r="5" fill="#4ade80"/>
+  <text x="450" y="26" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="13">daniel@github: ~/profile</text>
+
+  <g font-family="monospace" font-size="17">
+    <text class="line1" x="27" y="77" fill="#94a3b8"><tspan fill="#00d9ff">daniel@github</tspan><tspan fill="#cbd5e1">:</tspan><tspan fill="#7c3aed">~</tspan><tspan fill="#cbd5e1">$ whoami</tspan></text>
+    <text class="line2" x="27" y="112" fill="#f8fafc">Junior Full-Stack Developer focused on thoughtful web experiences.</text>
+    <text class="line3" x="27" y="147" fill="#94a3b8"><tspan fill="#00d9ff">daniel@github</tspan><tspan fill="#cbd5e1">:</tspan><tspan fill="#7c3aed">~</tspan><tspan fill="#cbd5e1">$ current-focus</tspan></text>
+    <text class="line4" x="27" y="182" fill="#f8fafc">React · TypeScript · UI/UX · APIs · Clean architecture</text>
+  </g>
+  <rect class="cursor" x="27" y="199" width="10" height="18" fill="#00d9ff" filter="url(#glow)"/>
+</svg>
