@@ -151,45 +151,41 @@ alt="Coding Wave"
 
 ## `> FEATURED_PROJECTS`
 
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center">
+
 <a href="https://github.com/GoofyGoose1/DressLily">
-<img src="https://raw.githubusercontent.com/GoofyGoose1/DressLily/main/Lily.PNG" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/GoofyGoose1/DressLily/main/Lily.PNG"
+    width="48%"
+    alt="DressLily"
+  />
 </a>
 
-### DressLily
-
-</td>
-
-<td align="center" width="50%">
 <a href="https://github.com/GoofyGoose1/Portfolio">
-<img src="https://raw.githubusercontent.com/GoofyGoose1/Portfolio/main/daniel.PNG" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/GoofyGoose1/Portfolio/main/daniel.PNG"
+    width="48%"
+    alt="Portfolio"
+  />
 </a>
 
-### Portfolio
+<br><br>
 
-</td>
-
-<tr>
-<td align="center">
 <a href="https://github.com/GoofyGoose1/StepUp">
-<img src="https://raw.githubusercontent.com/GoofyGoose1/StepUp/main/stepup-logo.png" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/GoofyGoose1/StepUp/main/stepup-logo.png"
+    width="48%"
+    alt="StepUp"
+  />
 </a>
 
-### StepUp
-
-</td>
-
-<td align="center">
 <a href="https://github.com/GoofyGoose1/RagPro">
-<img src="https://raw.githubusercontent.com/GoofyGoose1/RagPro/main/ragpro.png" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/GoofyGoose1/RagPro/main/ragpro.png"
+    width="48%"
+    alt="RagPro"
+  />
 </a>
-
-### RagPro
-
-</td>
-</table>
 
 </div>
 
