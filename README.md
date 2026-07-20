@@ -220,6 +220,8 @@ alt="Coding Wave"
 
 <div align="center">
 
+<picture>
+
 <source
 media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/GoofyGoose1/GoofyGoose1/output/github-contribution-grid-snake-dark.svg"
@@ -237,6 +239,8 @@ alt="Contribution Snake"
 />
 
 </div>
+
+<picture>
 
 <br>
 
