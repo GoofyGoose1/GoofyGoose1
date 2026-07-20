@@ -1,15 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="Animated footer">
-  <rect width="900" height="110" rx="20" fill="#fffafa"/>
-  <text x="450" y="48" text-anchor="middle" fill="#111111" font-family="Arial, sans-serif" font-size="25" font-weight="800">THANKS FOR STOPPING BY!</text>
-  <text x="450" y="78" text-anchor="middle" fill="#ff4f91" font-family="monospace" font-size="18">BUILDING SOMETHING USEFUL...</text>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="110"
+     viewBox="0 0 900 110"
+     role="img"
+     aria-label="Animated footer">
 
-  <circle cx="275" cy="74" r="4" fill="#ff4f91">
-    <animate attributeName="opacity" values=".2;1;.2" dur="1.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="295" cy="74" r="4" fill="#ff4f91">
-    <animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="315" cy="74" r="4" fill="#ff4f91">
-    <animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".4s" repeatCount="indefinite"/>
-  </circle>
+  <rect width="900" height="110" rx="20" fill="#fffafa"/>
+
+  <text
+      x="450"
+      y="45"
+      text-anchor="middle"
+      fill="#111111"
+      font-family="Arial, sans-serif"
+      font-size="25"
+      font-weight="800">
+      THANKS FOR STOPPING BY!
+  </text>
+
+  <text
+      x="430"
+      y="78"
+      text-anchor="middle"
+      fill="#ff4f91"
+      font-family="monospace"
+      font-size="18">
+      BUILDING SOMETHING USEFUL
+  </text>
+
+  <g transform="translate(610 72)">
+      <path
+          d="M0-4
+             C0-9 7-9 7-4
+             C7-9 14-9 14-4
+             C14 2 7 8 7 8
+             C7 8 0 2 0-4Z"
+          fill="#ff4f91">
+
+          <animateTransform
+              attributeName="transform"
+              type="scale"
+              values="1;1.18;1"
+              dur="1.4s"
+              repeatCount="indefinite"/>
+      </path>
+  </g>
+
 </svg>
