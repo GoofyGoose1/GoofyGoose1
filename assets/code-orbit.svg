@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Animated full-stack developer code orbit">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" rx="24" fill="#fffafa"/>
+  <ellipse cx="450" cy="110" rx="330" ry="72" fill="none" stroke="#f3b5cf" stroke-width="3" stroke-dasharray="8 12">
+    <animateTransform attributeName="transform" type="rotate" from="0 450 110" to="360 450 110" dur="18s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g filter="url(#glow)">
+    <rect x="292" y="58" width="316" height="104" rx="34" fill="#111111"/>
+    <text x="450" y="105" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="800">DESIGN MEETS CODE</text>
+    <text x="450" y="139" text-anchor="middle" fill="#ff4f91" font-family="monospace" font-size="20">FULL-STACK DEVELOPER</text>
+  </g>
+
+  <g>
+    <circle cx="120" cy="110" r="38" fill="#111111"/>
+    <text x="120" y="120" text-anchor="middle" fill="#ff4f91" font-family="monospace" font-size="28" font-weight="700">&lt;/&gt;</text>
+    <animateTransform attributeName="transform" type="rotate" from="0 450 110" to="360 450 110" dur="12s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <circle cx="780" cy="110" r="38" fill="#ff4f91"/>
+    <text x="780" y="120" text-anchor="middle" fill="#111111" font-family="monospace" font-size="28" font-weight="700">{ }</text>
+    <animateTransform attributeName="transform" type="rotate" from="180 450 110" to="540 450 110" dur="12s" repeatCount="indefinite"/>
+  </g>
+</svg>
